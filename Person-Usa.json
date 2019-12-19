@@ -1,0 +1,16 @@
+{
+  "FirstName": "Jose",
+  "LastName": "Smith",
+  "BirthCountry": "United States",
+  "Address": {
+    "City": "Houston",
+    "State": "TX",
+    "Country": "USA",
+    "ZipCode": 77877
+  },
+  "SSN": "1123445",
+  "TaxId": "txid898989",
+  "Height": "150 cm",
+  "Weight": "130 lbs",
+  "Income": "100,000 dollars"
+}

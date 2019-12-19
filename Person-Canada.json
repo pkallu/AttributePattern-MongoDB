@@ -1,0 +1,16 @@
+{
+  "FirstName": "John",
+  "LastName": "Doe",
+  "BirthCountry": "Canada",
+  "Address": {
+    "City": "Toronto",
+    "Province": "Ontario",
+    "Country": "Canada",
+    "ZipCode": "M4B 1B5"
+  },
+  "SIN": "898989",
+  "TaxId": "kskjdkj",
+  "Height": "150 cm",
+  "Weight": "50 kgs",
+  "Income": "100,000 canadian dollars"
+}
